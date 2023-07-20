@@ -1,7 +1,6 @@
 # Requests, JSON, and basic NLP with spaCy
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+I completed the tasks in the Python Notebook in this repository and pushed them to Github using git commands in the terminal. This is the first week I have had no trouble with git!!!
 
 ## Rubric
 
